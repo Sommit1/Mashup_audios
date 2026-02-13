@@ -27,8 +27,14 @@ The script uses:
 - Duration of each clip (y seconds)
 - Output mp3 file name
 
+- <img width="460" height="22" alt="image" src="https://github.com/user-attachments/assets/a1a5c13d-84f9-4f6a-bbc7-68f335a82a49" />
+
+
 ### Output:
 - A single mashup `.mp3` file
+
+- <img width="462" height="66" alt="image" src="https://github.com/user-attachments/assets/a0346e89-d035-4de5-864e-5dc6cdde4cdd" />
+
 
 ### Run Program 1:
 python 102303184.py "Sharry Mann" 20 30 output.mp3
